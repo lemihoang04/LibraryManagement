@@ -1,0 +1,16 @@
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe.config
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.exe
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\bin\Debug\QuanLyThuVien.pdb
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\bin\Debug\EntityFramework.dll
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\bin\Debug\EntityFramework.SqlServer.dll
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\bin\Debug\EntityFramework.xml
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\bin\Debug\EntityFramework.SqlServer.xml
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.AssemblyReference.cache
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.View.MainForm.resources
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.Properties.Resources.resources
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.GenerateResource.cache
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.csproj.CoreCompileInputs.cache
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyTh.B5137F7B.Up2Date
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.exe
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.pdb
+E:\dotnetmvs\QuanLyThuVien\QuanLyThuVien\obj\Debug\QuanLyThuVien.View.DetailForm.resources
